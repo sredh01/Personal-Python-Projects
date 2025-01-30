@@ -1,0 +1,3 @@
+[submodule "NASA-meteorite-data"]
+	path = NASA-meteorite-data
+	url = https://github.com/sredh01/NASA-meteorite-data.git
