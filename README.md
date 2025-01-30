@@ -8,7 +8,7 @@ Welcome to my **Personal Python Projects** repository. This repository contains 
 
 This repository includes the following projects:  
 
-- **[NASA Meteorite Data](./https://github.com/sredh01/NASA-meteorite-data/tree/bb0a8e4d0061ff3ad9e871a024344bcc921bef6f/)** – Analyzing meteorite impact data with clustering and an interactive map.   
+- [NASA Meteorite Data](https://github.com/sredh01/NASA-meteorite-data) – Analyzing meteorite impact data with clustering and an interactive map.
 
 Additional projects will be added over time.  
 
